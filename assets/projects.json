@@ -1,0 +1,29 @@
+{
+  "_comment": "Featured repos for the 'selected work' cards. 'description' overrides the repo's own (empty) description. Stars, forks and language are pulled live from the API.",
+  "projects": [
+    {
+      "repo": "pk-judgment-analytics",
+      "title": "Supreme Court Judgment Analytics",
+      "description": "Extracts 25 fields from ~1,200 Pakistani Supreme Court judgment PDFs, benchmarks RF / XGBoost / SVM, and ships a dashboard with similar-case search.",
+      "live": "https://huzaifaguru.github.io/pk-judgment-analytics/"
+    },
+    {
+      "repo": "nn-verification-airquality",
+      "title": "NN Output Verification",
+      "description": "SHERLOCK formal verification of a ReLU network predicting CO levels: local search + exact MILP for certified output bounds (R² 0.93).",
+      "live": "https://huzaifaguru.github.io/nn-verification-airquality/"
+    },
+    {
+      "repo": "flyrank-ml-internship",
+      "title": "FlyRank ML Internship",
+      "description": "Ranks pages by under-capture risk over a 79M-row dataset with DuckDB and GroupKFold; four classifiers measured against a frozen baseline.",
+      "live": "https://huzaifaguru.github.io/flyrank-ml-internship/"
+    },
+    {
+      "repo": "AI-chatbot",
+      "title": "AI Chatbot",
+      "description": "Flask + Google Gemini chatbot with history, system prompt, Markdown rendering and voice input/output.",
+      "live": ""
+    }
+  ]
+}

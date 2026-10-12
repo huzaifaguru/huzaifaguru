@@ -1,0 +1,13 @@
+{
+  "_comment": "Self-rated skill radar (0-10). Edit the numbers and push; the workflow redraws assets/radar-*.svg.",
+  "skills": {
+    "Machine Learning": 8,
+    "Data Wrangling": 8,
+    "Python": 9,
+    "Formal Verification": 6,
+    "Algorithms & DS": 7,
+    "SQL / DuckDB": 7,
+    "Web Dev": 5,
+    "C / C++": 6
+  }
+}
