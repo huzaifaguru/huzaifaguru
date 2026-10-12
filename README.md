@@ -13,7 +13,7 @@
 
 <!-- NAME / TAGLINE - animated typing -->
 <a href="https://github.com/huzaifaguru">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Syed+Mohammad+Huzaifa;Machine+Learning+%2F+AI+Engineer;BS+CS+(AI)+%40+NED+University;Building+end-to-end+ML+pipelines;01101101+01101100" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=Syed+Mohammad+Huzaifa;Machine+Learning+%2F+AI+Engineer;BS+CS+(AI)+%40+NED+University;Building+end-to-end+ML+pipelines" alt="typing banner">
 </a>
 
 <br>
@@ -22,8 +22,6 @@
 <a href="https://linkedin.com/in/syed-mohammad-huzaifa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mohammadhuzaifa699@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://huzaifaguru.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
-
-<img src="https://komarev.com/ghpvc/?username=huzaifaguru&style=flat&color=39d353&label=profile+views" alt="profile views">
 
 </div>
 
@@ -190,13 +188,5 @@ I like ML work that holds up when you check it: proper baselines, leak-free spli
 | **[AI-chatbot](https://github.com/huzaifaguru/AI-chatbot)** | n/a | `Flask` `Gemini` |
 
 </sub>
-
-</div>
-
----
-
-<div align="center">
-
-<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
 
 </div>
